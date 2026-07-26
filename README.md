@@ -1,8 +1,7 @@
 ### Hi o/ I'm Nauviax!
 
+I make things. Currently working on a little game called Bolder World: https://github.com/Nauviax/boulder-world, but there are multiple other projects scattered around here that I like to imagine I'll finish someday.
 
-~~I'm currently working on a solo project based on Hexcasting. You can find it under Nauviax/Hexgame for now.~~
-
-Actually I'm working full time now, so things like mod updates and new features will be less frequent. (Sorry)
+Actively maintaining various mods, including that one that made planets visible that one time. Feel free to open issues for any that are public here.
 
 A lot of my stuff isn't set to public, so if you're looking for source code for a mod I've made or something similar, just email me at nauviax@icloud.com.
